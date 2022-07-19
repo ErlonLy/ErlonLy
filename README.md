@@ -13,9 +13,6 @@
    <br> 
   <div align="left">
   <img align="left" alt="Erlon-pic" height="200" style="border-radius:50px;"   src="https://cdn.discordapp.com/attachments/617489858532868099/969338593887801484/erlonfig.gif">
-	<a href="linktr.ee/erlonk31" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo"  />
-  </a>
 </div>
   </br>
   
