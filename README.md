@@ -2,7 +2,7 @@
 - 🕸 Tenho 22 anos 
 - 👨‍💻 Gosto de Python
 - 👨‍🎓 Graduado em Redes de Computadores 
-- 🧠 Pós Graduação Dev FullStack Web (Em andamento)
+- 🧠 Pós Graduado Dev FullStack Web
 
 <div align="center">
   <a href="https://github.com/ErlonLy">
