@@ -10,11 +10,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErlonLy&layout=compact&langs_count=7&theme=dark"/>
         </div>
 
-   <br> 
-  <div align="left">
-  <img align="left" alt="Erlon-pic" height="200" style="border-radius:50px;"   src="https://cdn.discordapp.com/attachments/617489858532868099/969338593887801484/erlonfig.gif">
-</div>
-  </br>
+ 
   
 <div align="center">
   <img align="center"alt="Erlon-HTML"   height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
