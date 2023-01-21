@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Erlon Alves, Futuro Desenvolvedor FullStack Web 🖥️
 - 🕸 Tenho 23 anos 
-- 👨‍💻 Gosto de Python
+- 👨‍💻 Gosto de Python (Mas prefiro Front-END)
 - 👨‍🎓 Graduado em Redes de Computadores 
 - 🧠 Pós Graduado Dev FullStack Web
 
