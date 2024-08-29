@@ -16,6 +16,8 @@
   <img align="center"alt="Erlon-HTML"   height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center"alt="Erlon-CSS"    height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center"alt="Erlon-js"     height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+   <img align="center"alt="Erlon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+   <img align="center"alt="Erlon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">
   <img align="center"alt="Erlon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
      </div>
      
@@ -26,5 +28,7 @@
    <br>
   
   ![Snake animation](https://github.com/ErlonLy/ErlonLy/blob/output/github-contribution-grid-snake.svg)
-       </div>
+ 
+  
+  </div>
    </br>
