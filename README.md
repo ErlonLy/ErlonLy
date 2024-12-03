@@ -3,6 +3,8 @@
 - 👨‍💻 Trilhando o Desenvolvedor FullStack Web, com mais afinidade front-end
 - 👨‍🎓 Graduado em Redes de Computadores 
 - 🧠 Pós Graduado Dev FullStack Web
+- CyberSec black box 
+
 
 <div align="center">
   <a href="https://github.com/ErlonLy">
