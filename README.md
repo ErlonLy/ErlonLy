@@ -1,9 +1,9 @@
 ### Olá! Eu sou o Erlon Alves, Futuro Desenvolvedor FullStack Web 🖥️
 - 🕸 Tenho 25 anos 
-- 👨‍💻 Trilhando o Desenvolvedor FullStack Web, com mais afinidade front-end
+- 👨‍💻 Trilhando o Roadmap CyberSec, com mais afinidade em BlackBox 
 - 👨‍🎓 Graduado em Redes de Computadores 
 - 🧠 Pós Graduado Dev FullStack Web
-- CyberSec black box 
+- CyberSec BlackBox 
 
 
 <div align="center">
