@@ -16,12 +16,11 @@
  
   <br>
 <div align="center">
-  <img align="center"alt="Erlon-HTML"   height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center"alt="Erlon-CSS"    height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center"alt="Erlon-js"     height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg">
-   <img align="center"alt="Erlon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-   <img align="center"alt="Erlon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">
-  <img align="center"alt="Erlon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img align="center"alt="Erlon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img align="center"alt="Erlon-Rust"     height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg">
+   <img align="center"alt="Erlon-Lua" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">
+   <img align="center"alt="Erlon-C++" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg](https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg)">
+ 
      </div>
      
   <br>
