@@ -3,8 +3,8 @@
 - 👨‍💻 Trilhando o Roadmap CyberSec, com mais afinidade em BlackBox 
 - 👨‍🎓 Graduado em Redes de Computadores 
 - 🧠 Pós Graduado Dev FullStack Web
-- Pós graduante em Cybersecurity
-- CyberSec BlackBox 
+- 🧑‍🎓 Pós graduante em Cybersecurity
+- 🤖 CyberSec BlackBox 
 
 
 <div align="center">
