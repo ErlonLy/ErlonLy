@@ -25,7 +25,7 @@
   <br>
 <div align="center">
    <img align="center"alt="Erlon-IdaPro" height="30" width="40" src="https://static.wikitide.net/zenithwiki/0/0d/IDAIcon.png">
-   <img align="center"alt="Erlon-CE"     height="30" width="40" src="https://p7.hiclipart.com/preview/386/29/106/cheat-engine-cheating-in-video-games-android-android-thumbnail.jpg">
+   <img align="center"alt="Erlon-CE"     height="30" width="40" src="https://www.cheatengine.org/favicon.ico">
      </div>     
   
 
