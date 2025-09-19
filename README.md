@@ -23,6 +23,13 @@
      </div>
      
   <br>
+<div align="center">
+   <img align="center"alt="Erlon-IdaPro" height="30" width="40" src="https://static.wikitide.net/zenithwiki/0/0d/IDAIcon.png">
+   <img align="center"alt="Erlon-CE"     height="30" width="40" src="https://p7.hiclipart.com/preview/386/29/106/cheat-engine-cheating-in-video-games-android-android-thumbnail.jpg">
+     </div>     
+  
+
+  <br>
  <div align="center">
       <a href = "mailto:erlonposdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
       <a href="https://www.linkedin.com/in/erlon-alves-31365a157" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
