@@ -41,7 +41,7 @@
 
 <div align="center">
   <img alt="Wireshark" src="https://play-lh.googleusercontent.com/6lQpAWQSFdZkuaLiY_PZDCOULqb2188IMiNQFvF-W22aEGh78TYKnZH0zOWZe5H_BUI" height="40">
-  <img alt="Wifite" src="https://media.licdn.com/dms/image/v2/D4D22AQHu8Mh_UJJ6Pw/feedshare-shrink_2048_1536/B4DZbUa5SUGwAo-/0/1747320543442?e=2147483647&v=beta&t=pTcAFzCfBi7jbdER5bsbFiKmb79UPFOp6jDyI_rPBe8" height="40"> 
+  <img alt="Wifite" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiwRVymGXXQa9UG7EWO6QoNQIWhzSFH1aU1Q&s="40"> 
   <img alt="Hydra" src="https://media.licdn.com/dms/image/v2/D4D12AQGNtliq-sLp9A/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1702533539636?e=2147483647&v=beta&t=ozfFoo8yyaMl_QPSlfeosHkGugtx-gT8oPlQZgguKNc" height="40">
   <img alt="Jhonny" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3PMer1BYap7QgN2U2Kt45fo-auRObYEq-Yg&s" height="40"> 
 </div>
