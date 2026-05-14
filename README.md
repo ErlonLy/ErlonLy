@@ -22,6 +22,7 @@
   <img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40">
   <img alt="Rust" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" height="40">
   <img alt="Lua" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" height="40">
+  <img alt="C" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/C_Logo.png/960px-C_Logo.png" height="40"> 
   <img alt="C++" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" height="40"> 
 </div>
 
