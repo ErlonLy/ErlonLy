@@ -3,9 +3,9 @@
 - 🕸 27 years old  
 - 👨‍💻 Following the CyberSec Roadmap, focused on BlackBox Testing  
 - 👨‍🎓 Bachelor's in Computer Networks  
-- 🧠 Postgraduate in FullStack Web Development
-- 🤖 Postgraduate Program in Robotics Engineering - In Progress
-- 🧑‍🎓 Postgraduate student in Cybersecurity  
+- 🧠🧑‍🎓  Postgraduate in FullStack Web Development
+- 🧠🧑‍🎓 Postgraduate student in Cybersecurity
+- 🧠🤖 Postgraduate Program in Robotics Engineering - In Progress
 - 🤖 BlackBox CyberSec Practitioner  
 
 <!-- <div align="center">
